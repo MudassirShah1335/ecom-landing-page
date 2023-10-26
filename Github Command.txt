@@ -1,0 +1,41 @@
+// Start Your Project
+cd attract-game
+
+
+// used Powershell
+
+git checkout main
+git pull
+npm i
+
+git checkout -b feature/add-to-cart-pages
+git branch   // Are you now in  Branch or Not to make sure that then start coding
+
+
+
+// How we can Push Data from Own branch
+git add .
+git commit -m "term plarfom changed"
+git push
+or
+git push --set-upstream origin hotfix/cart-navigation-convert-to-addtofvrt-addpages
+
+
+// In Recent Branch
+git branch
+
+
+// Create New Branch
+git checkout main
+git pull
+git checkout -b feature/add-to-cart-pages
+
+
+
+
+
+
+
+
+
+
