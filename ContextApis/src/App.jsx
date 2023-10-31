@@ -4,7 +4,6 @@ import Profile from "./Compunent/Profile";
 const App = () => {
   return (
     <>
-      {/* <h1></h1> */}
       <h1>Login here</h1>
       <Login />
       <Profile />
