@@ -4,6 +4,7 @@ import Slidemenue from "./SlideMenu";
 
 const Header = () => {
   return (
+    //  header ?
     <div className="text-white flex items-center justify-between px-[15%] pt-8 ">
       <div className="text-[#e4e44a]  text-xl ">
         <p className="hover:text-gray-400 cursor-pointer ">Time Vault</p>
