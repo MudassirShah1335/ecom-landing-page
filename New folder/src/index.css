@@ -1,0 +1,12 @@
+* {
+  transition: all 0.4s ease;
+  scroll-behavior: smooth;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* /////////////////// home img  ////////////////// */
+.hero {
+  background: url(../src/Images/home.webp);
+}
